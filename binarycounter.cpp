@@ -29,6 +29,7 @@ int increment(int i){
         bin_num[i] = 1;
         i++;
     }
+    
     return i;
  
 }
